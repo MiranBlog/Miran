@@ -1,0 +1,5 @@
+:t: Hello world :t:
+:d:
+:p: Everything works! :p:
+:p: If you are curious about formatting go check the formatting.txt file! :p:
+<img src="http://i.imgur.com/2OFUbA1.gif"/>
